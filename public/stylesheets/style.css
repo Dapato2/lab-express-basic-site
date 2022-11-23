@@ -1,0 +1,46 @@
+body{
+    background-color: lavender;
+    font-size: 4rem;
+    margin: 20px;
+}
+div{
+    display: flex;
+}
+#elBicho{
+    width: 600px;
+    height: 600px;
+    
+}
+
+#homeImg{
+   justify-content:flex-start;
+   flex-direction: row;
+
+}
+#h1Home{
+    display: flex;
+    justify-content:center
+}
+h2{
+    font-size: 3rem;
+    color: gray;
+}
+#aboutContenedor1{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+ 
+}
+
+#buttonCont{
+    justify-content: space-around;
+    margin-top: 20px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    color: black;
+    font-weight: 1rem;
+    background-color: green;
+}
+
